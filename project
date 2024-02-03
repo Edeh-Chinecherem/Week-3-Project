@@ -4,10 +4,68 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
+    <title>Project 3</title>
 </head>
 
 <body>
+    <header>
+        <h1>Vacation Cities</h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+                <li>
+                    <a href="#about">About</a>
+                </li>
+                <li>
+                    <a href="form.html">Form</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>This is a website of vacation cities</h2>
+            <p>
+                See <a href="https://edeh-chinecherem.github.io/First_Assignment/" target="_blank">exciting places in
+                    Maldives</a>
+            </p>
+
+            <a href="https://edeh-chinecherem.github.io/First_Assignment/
+            ">
+                <img src="./maldives.jpg" alt="A water view"></a>
+        </section>
+        <section id="about">
+            <h2>Vacation Cities</h2>
+            <h3>Things to consider:</h3>
+            <ul>
+                <li>Outdoor view</li>
+                <li>Swimming pool</li>
+                <li>Lodging space</li>
+            </ul>
+
+            <figure>
+                <img src="https://travel.usnews.com/dims4/USNEWS/acefc0b/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https%3A%2F%2Ftravel.usnews.com%2Fimages%2FGettyImages-117211856_ozkPCCP.jpg"
+                    alt="Palm Trees">
+                <figcaption>
+                    Sailing on water during <strong>vacation</strong>
+                </figcaption>
+            </figure>
+            <h3>Top three vacation cities:</h3>
+            <ol>
+                <li>Paris</li>
+                <li>Rome</li>
+                <li>Maldives</li>
+            </ol>
+
+        </section>
+    </main>
+
+    <footer>
+        <p>© Copyright <a href="https://edeh-chinecherem.github.io/First_Assignment/">Edeh Chinecherem</a>
+        </p>
+    </footer>
 
 </body>
 
